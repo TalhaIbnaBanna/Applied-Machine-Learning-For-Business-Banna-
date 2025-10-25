@@ -1,3 +1,5 @@
+# SVM CLassifier
+
 This repository contains a Jupyter notebook demonstrating the Support Vector Machine (SVM) classifier algorithm using the Breast Cancer Wisconsin dataset from UCI. The notebook covers the fundamentals of SVM, data preprocessing, model training (with and without scaling), performance evaluation, visualization techniques (PCA and AutoEncoders), comparisons, and kernel impacts.
 
 **ipynb Overview**
