@@ -1,6 +1,10 @@
-# SVM Classifier
+# Applied Machine Learning for Business Projects
 
-This repository contains a Jupyter notebook demonstrating the Support Vector Machine (SVM) classifier algorithm using the Breast Cancer Wisconsin dataset from UCI. The notebook covers the fundamentals of SVM, data preprocessing, model training (with and without scaling), performance evaluation, visualization techniques (PCA and AutoEncoders), comparisons, and kernel impacts.
+This repository contains notebooks containing my projects for my ML coursework at IBA, Dhaka University
+
+## Understanding SVM (Project 1)
+
+Demonstrating the Support Vector Machine (SVM) classifier algorithm using the Breast Cancer Wisconsin dataset from UCI. The notebook covers the fundamentals of SVM, data preprocessing, model training (with and without scaling), performance evaluation, visualization techniques (PCA and AutoEncoders), comparisons, and kernel impacts.
 
 **ipynb Overview**
 
@@ -13,3 +17,12 @@ Key highlights:
 * Dimensionality reduction: PCA and AutoEncoders for visualization.
 * Kernel comparisons: Linear vs. RBF.
 * Baseline models for performance benchmarking.
+
+
+## Avatar: Fire and Ash Revenue Prediction (Project 2)
+
+In this project I developed a model to predict box office movie revenues and specifically predicted the revenue for Avatar: Fire and Ash before its release. It contains:
+
+* A codebook where I made a fact table to use in feature engineering later on
+* A codebook where I aggregated my fact table and did feature engineering
+* A codebook where I made my model and actually predicted the performance of Avatar: Fire and Ash
