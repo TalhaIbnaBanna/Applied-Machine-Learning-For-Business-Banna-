@@ -1,6 +1,4 @@
 # Project Overview
-<img width="3000" height="1688" alt="image" src="https://github.com/user-attachments/assets/a9277674-66be-4573-92dd-5e0511fd6fc1" />
-
 This folder contains the files for my Movie Revenue Prediction Project. It has the:
 
 * Fact table creation file
