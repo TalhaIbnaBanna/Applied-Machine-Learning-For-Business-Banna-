@@ -1,5 +1,4 @@
 # Project Overview
-![Uploading image.png…]()
 
 This folder contains the files for my Movie Revenue Prediction Project. It has the:
 
