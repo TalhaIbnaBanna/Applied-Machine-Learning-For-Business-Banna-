@@ -5,7 +5,7 @@ This folder contains the files for my Movie Revenue Prediction Project. It has t
 * Feature engineering file
 * Modeling and prediction file
 
-The datasets used in this project are available in the following link:
+The datasets used in this project are available in the following link (It also contains the code used for extracting the datasets):
 
 https://drive.google.com/drive/folders/1svwQNAyIHUnYaGMEYpYiZ3YB_Djez6pH
 
