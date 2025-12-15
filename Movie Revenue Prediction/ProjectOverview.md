@@ -1,4 +1,5 @@
 # Project Overview
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/aeeb8901-9966-4d3e-bd3c-e064a178be06" />
 
 This folder contains the files for my Movie Revenue Prediction Project. It has the:
 
