@@ -1,5 +1,5 @@
 # Project Overview
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/aeeb8901-9966-4d3e-bd3c-e064a178be06" />
+<img width="3000" height="1688" alt="image" src="https://github.com/user-attachments/assets/a9277674-66be-4573-92dd-5e0511fd6fc1" />
 
 This folder contains the files for my Movie Revenue Prediction Project. It has the:
 
@@ -7,7 +7,7 @@ This folder contains the files for my Movie Revenue Prediction Project. It has t
 * Feature engineering file
 * Modeling and prediction file
 
-The dataset used in this project are available in the following link:
+The datasets used in this project are available in the following link:
 
 https://drive.google.com/drive/folders/1svwQNAyIHUnYaGMEYpYiZ3YB_Djez6pH
 
