@@ -15,4 +15,4 @@ Each codebook has a codebook overview section in the beginning which will help y
 ## My Prediction for Avatar: Fire and Ash
 **$183,674,720**
 
-My prediction using my model is that the 3rd Avatar movie will make $183,674,720 in its first week (7 days)
+My prediction using my model is that the 3rd Avatar movie will make $183,674,720 in its first week (7 days) in the domestic market
