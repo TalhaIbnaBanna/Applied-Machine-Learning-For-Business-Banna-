@@ -1,2 +1,0 @@
-# Project Overview
-This folder contains the fact table preparation file of our project, feature engineering file, and the modeling and prediction file for Avatar: Fire and Ash. I have attached a link to the fact table low as I couldn't upload it here due to dataset size limitations. The dimension table which was made after feature engineering however, is uploaded in this folder. All the codebooks have an overview section which will help you go through them.
